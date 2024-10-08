@@ -1,0 +1,5 @@
+(A) Reset functionality
+(B) owner role frontend
+(C) admin frontend
+(D) api consumption using js
+(E) logOut
